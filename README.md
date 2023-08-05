@@ -1,16 +1,11 @@
-# hello_world_assignment
+# Flutter hello world assignment
 
-A new Flutter project.
+## Instructions
+clone and run the project with:
+`flutter run`
 
-## Getting Started
+or
 
-This project is a starting point for a Flutter application.
+debug with Visual Studio Code
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![run instructions](https://i.ibb.co/D5nw7JK/oo.gif)
